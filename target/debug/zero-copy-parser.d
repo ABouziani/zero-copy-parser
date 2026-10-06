@@ -1,0 +1,1 @@
+/home/hamid/Desktop/rust-bl/zero-copy-parser/target/debug/zero-copy-parser: /home/hamid/Desktop/rust-bl/zero-copy-parser/src/cursor.rs /home/hamid/Desktop/rust-bl/zero-copy-parser/src/lib.rs /home/hamid/Desktop/rust-bl/zero-copy-parser/src/main.rs /home/hamid/Desktop/rust-bl/zero-copy-parser/src/parser.rs
